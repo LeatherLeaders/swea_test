@@ -25,8 +25,3 @@ for i in range(T) :
         print("#" + str(i + 1), "A")
     else:
         print("#" + str(i + 1), "B")
-
-3
-400 300 350
-1000 299 578
-1000 222 888
